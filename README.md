@@ -18,9 +18,13 @@ A video shuffler written in C that utilizes rand(), srand(), printf(), sleep(), 
 ### Build System:
 
 Operating System: Ubuntu 20.04.2 LTS (64 bit)
+
 Kernel Version: 5.8.0-59-generic
+
 GCC Version: GCC 9.3.0
+
 X Window Manager: GNOME Shell
+
 Sublime Text Version: 3.2.2 | UNREGISTERED
 
 --------------------------------------------------------

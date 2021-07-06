@@ -56,6 +56,8 @@ Now, yes, I understand that VLC Media Player, and many other media players have 
 
 Just going to say that this could also be used for audio. (instead of "video01.mp4" just use "audio01.mp3", or something of the sort.)
 
+Yes, there's a reason why I didn't upload a compiled version of the program - Not everyone is going to name their files the same, and that is fine.  
+
 --------------------------------------------------------
 
 ### What do I use this for?

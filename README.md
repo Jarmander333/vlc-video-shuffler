@@ -11,6 +11,18 @@ A video shuffler written in C that utilizes rand(), srand(), printf(), sleep(), 
 
 * Sublime Text
 
+* Python3
+
+--------------------------------------------------------
+
+### Build System:
+
+Operating System: Ubuntu 20.04.2 LTS (64 bit)
+Kernel Version: 5.8.0-59-generic
+GCC Version: GCC 9.3.0
+X Window Manager: GNOME Shell
+Sublime Text Version: 3.2.2 | UNREGISTERED
+
 --------------------------------------------------------
 
 ### Compatibility:
@@ -33,11 +45,11 @@ No.
 
 It requires a bit of setup before you should compile it!
 
-* Make sure you have VideoLAN VLC installed. https://www.videolan.org/
+* Make sure you have VideoLAN VLC and Python3 installed. https://www.videolan.org/ | https://www.python.org/downloads/
 
 * Make sure that in the source code you add in your videos after the "vlc ", or else when you run the program, nothing will happen. 
 
-* If you have, say, 13 videos you want to randomize, edit the source code to make the rand() statement read "rand() % 13", and add some more "if-else" statements to it!
+* If you have, say, 13 videos you want to randomize, edit the source code to make the rand() statement read "rand() % 13", and add some more "if-else" statements, and more strings, and then you have 13 videos!
 
 * If you want to randomize video outside the source directory of the videos, specify a directory like this, "system("vlc /home/user/movies/video01.mp4");",
 

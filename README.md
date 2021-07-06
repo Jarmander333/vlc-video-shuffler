@@ -68,6 +68,10 @@ I run it of a Raspberry Pi constantly, leaving all my videos running on it, so I
 
 ### TODO-List:
 
-Make Ctrl+C actually work.
+~~Make Ctrl+C actually work.~~
 
-Maybe use printf()  to display a "Now Playing" message?
+~~Maybe use printf() to display a "Now Playing" message?~~
+
+Make an automated python3 script to make the file for you. 
+
+

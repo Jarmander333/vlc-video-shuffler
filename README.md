@@ -1,3 +1,5 @@
+# I have switched to GitLab as of now.  
+
 # vlc-video-shuffler
 A video shuffler that utilizes VideoLAN's VLC.
 
